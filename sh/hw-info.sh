@@ -2,6 +2,7 @@
 
 # 硬件信息收集脚本 - 兼容Debian/Ubuntu/CentOS
 # 此脚本需要root权限运行
+# clone from https://github.com/Yuri-NagaSaki/Bash/blob/main/hardware_info_script.sh
 
 # 设置输出颜色
 RED='\033[0;31m'
